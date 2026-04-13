@@ -1,34 +1,37 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/faizuet/faizuet/main/Screenshot%202026-03-13%20120625.png" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/faizuet/faizuet/main/profile-image.png" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=860&height=50&lines=⚡+High-Performance+APIs+%7C+Python+%26+FastAPI;🤖+AI%2FML+Integration+%7C+%3C200ms+Inference+in+Prod;📈+94%25+DB+Boost+—+3.2s+to+180ms+in+Production;☁️+Cloud-Native+on+AWS+%7C+5%2B+Systems+%7C+99%25+Uptime;🔐+JWT+%2B+OAuth2+%7C+85%25+Fewer+Security+Incidents" alt="Typing SVG"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=⚡+High-Performance+APIs+·+Python+%26+FastAPI;🤖+AI%2FML+Integration+at+%3C200ms+latency;📈+94%25+DB+boost+—+3.2s+to+180ms;☁️+Helping+Businesses+Scale+on+AWS" alt="Typing SVG"/>
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faiz-backend)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizuet7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizuet)
 
 <br/>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faiz-backend)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:faizuet7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faizuet)
+![](https://img.shields.io/badge/●_Open_to_Work-Remote_·_Onsite_·_Relocation-2ea44f?style=for-the-badge&labelColor=161b22)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20·%20Onsite%20·%20Relocation-2ea44f?style=flat)
-![Location](https://img.shields.io/badge/Based%20In-Peshawar%2C%20Pakistan-58A6FF?style=flat)
-![Response](https://img.shields.io/badge/Responds-Within%2024h-F7C948?style=flat)
+![](https://img.shields.io/badge/📍_Based_In-Peshawar,_Pakistan-58A6FF?style=for-the-badge&labelColor=161b22)
+&nbsp;
+![](https://img.shields.io/badge/⚡_Responds-Within_24h-F7C948?style=for-the-badge&labelColor=161b22)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizuet&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e&radius=5&height=220" width="100%"/>
-</div>
 
 ---
 
@@ -43,7 +46,7 @@ Name      : Muhammad Faiz
 Role      : Backend Engineer · High-Performance APIs
 Company   : NexVolt Solutions
 Location  : Peshawar, Pakistan 🇵🇰
-Available : Remote · Onsite · Relocation 
+Available : Remote · Onsite · Relocation
 
 Speciality: Python • FastAPI • AI/ML Integration
 Mission   : Helping businesses scale through
@@ -63,8 +66,7 @@ Ask me about :
 
 </td>
 <td valign="middle" width="42%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340"/>
-<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
 </td>
 </tr>
 </table>
@@ -102,25 +104,91 @@ Ask me about :
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 My Favorite Tools and Technologies
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,redis,aws,docker,nginx,git,tensorflow,github&theme=dark&perline=6"/>
-
-<br/><br/>
-
-<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
   <tr>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="60"/><br/><b>Python</b></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60"/><br/><b>AWS</b></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br/><b>Docker</b></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br/><b>REST APIs</b></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60"/><br/><b>MySQL</b></td>
-    <td align="center" width="110"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="60"/><br/><b>Nginx</b></td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST APIs
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
   </tr>
 </table>
+</div>
 
+<br/>
+
+## Languages and Tools
+<div align="center">
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="25" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>
 </div>
 
 ---
@@ -146,7 +214,6 @@ Ask me about :
 
 ---
 
-
 ## 💼 Professional Journey
 
 <br/>
@@ -165,10 +232,7 @@ Ask me about :
 </td>
 
 <td width="3%" align="center" valign="top">
-<br/>
-🟡
-<br/>
-│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
+<br/>🟡<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
 </td>
 
 <td width="75%" valign="top">
@@ -205,10 +269,7 @@ Built RESTful APIs, implemented JWT authentication flows, and optimized SQL sche
 </td>
 
 <td width="3%" align="center" valign="top">
-<br/>
-🔵
-<br/>
-│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
+<br/>🔵<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
 </td>
 
 <td width="75%" valign="top">
@@ -246,10 +307,7 @@ Built production-grade microservices in a cloud-native environment. Ranked top p
 </td>
 
 <td width="3%" align="center" valign="top">
-<br/>
-🟢
-<br/>
-│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
+<br/>🟢<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
 </td>
 
 <td width="75%" valign="top">
@@ -292,8 +350,6 @@ Owning full backend systems end-to-end. Architected and shipped 20+ production A
 </table>
 
 ---
-
-
 
 ## 🚀 Featured Projects
 
@@ -356,7 +412,7 @@ Enterprise-grade async AI image generation platform built for scale. Features ze
 Comprehensive wellness backend serving personalized AI insights across 8 domains: skincare, haircare, fitness, diet, and more. Features anonymous onboarding, multi-step session tracking, and full Stripe subscription management.
 
 **Key highlights:**
-- Google Gemini 3 Flash integration for real-time AI wellness recommendations
+- Google Gemini Flash integration for real-time AI wellness recommendations
 - Anonymous onboarding with post-auth session linking — zero friction to start
 - Google + Apple OAuth2 Sign-In with JWT refresh token auth
 - Stripe subscriptions with monthly/yearly plans, trials, and webhook handling
@@ -484,6 +540,32 @@ Optimized vehicle tracking backend with clean MVC architecture. Aggressive query
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<a href="https://github.com/faizuet?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizuet&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" height="192px"/>
+</a>
+<a href="https://github.com/faizuet?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizuet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/faizuet?tab=stars">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizuet&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/faizuet">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizuet&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e&radius=5&height=220" width="100%"/>
+</a>
+
+</div>
+
+---
 
 ## 🗣️ What People Say
 
@@ -533,10 +615,6 @@ const faiz = {
 
 ## 🌱 2025 Growth Roadmap
 
-What I'm actively building towards this year — tracked openly.
-
-<br/>
-
 <table width="100%">
 <tr>
 <th align="left" width="22%">Focus Area</th>
@@ -544,42 +622,36 @@ What I'm actively building towards this year — tracked openly.
 <th align="left" width="33%">Goal</th>
 <th align="left" width="27%">Progress</th>
 </tr>
-
 <tr>
 <td><b>🐳 Kubernetes</b></td>
 <td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
 <td>Container orchestration at scale — deploy and manage multi-service apps in prod</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
-
 <tr>
 <td><b>📐 System Design</b></td>
 <td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
 <td>Design distributed systems that handle millions of users without breaking</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
-
 <tr>
 <td><b>⚡ GraphQL</b></td>
 <td><img src="https://img.shields.io/badge/Starting_Soon-58A6FF?style=flat&labelColor=0d1117"/></td>
 <td>Build real-time flexible APIs as a complement to existing REST expertise</td>
 <td><code>████░░░░░░░░░░░░░░░░</code> 20%</td>
 </tr>
-
 <tr>
 <td><b>🔄 Event-Driven Arch</b></td>
 <td><img src="https://img.shields.io/badge/Starting_Soon-58A6FF?style=flat&labelColor=0d1117"/></td>
 <td>Kafka-based async microservices for decoupled, high-throughput data pipelines</td>
 <td><code>████░░░░░░░░░░░░░░░░</code> 20%</td>
 </tr>
-
 <tr>
 <td><b>🌐 Global SaaS</b></td>
 <td><img src="https://img.shields.io/badge/Planned-2ea44f?style=flat&labelColor=0d1117"/></td>
 <td>Ship a multi-region, multi-tenant SaaS product to a global audience</td>
 <td><code>██░░░░░░░░░░░░░░░░░░</code> 10%</td>
 </tr>
-
 </table>
 
 ---
@@ -588,12 +660,7 @@ What I'm actively building towards this year — tracked openly.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600"/>
-
-<br/><br/>
-
 > *"I don't just write code — I engineer systems built to last, built to scale, and built to impress."*
-> — **Muhammad Faiz**
 
 <br/>
 
@@ -607,22 +674,19 @@ What I'm actively building towards this year — tracked openly.
   <a href="https://linkedin.com/in/muhammad-faiz-backend">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faiz-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <br/>
-  <sub>Professional Network</sub>
+  <br/><sub>Professional Network</sub>
 </td>
 <td align="center" width="200">
   <a href="mailto:faizuet7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-faizuet7@gmail.com-EA4335?style=flat&logo=gmail&logoColor=EA4335"/>
   </a>
-  <br/>
-  <sub>Direct Email</sub>
+  <br/><sub>Direct Email</sub>
 </td>
 <td align="center" width="200">
   <a href="https://github.com/faizuet">
     <img src="https://img.shields.io/badge/GitHub-faizuet-181717?style=flat&logo=github&logoColor=181717"/>
   </a>
-  <br/>
-  <sub>Open Source Work</sub>
+  <br/><sub>Open Source Work</sub>
 </td>
 </tr>
 </table>
