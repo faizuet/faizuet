@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=860&height=50&lines=⚡+High-Performance+APIs+%7C+Python+%26+FastAPI;🤖+AI%2FML+Integration+%7C+%3C200ms+Inference+in+Prod;📈+94%25+DB+Boost+—+3.2s+to+180ms+in+Production;☁️+Cloud-Native+on+AWS+%7C+5%2B+Systems+%7C+99%25+Uptime;🔐+JWT+%2B+OAuth2+%7C+85%25+Fewer+Security+Incidents" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=860&height=50&lines=☁️+Cloud-Focused+Software+Engineer+%7C+AWS+%26+Linux;⚡+High-Performance+APIs+%7C+Python+%26+FastAPI;📈+94%25+DB+Boost+—+3.2s+to+180ms+in+Production;🐳+Docker+%2B+CI%2FCD+%7C+5%2B+Systems+%7C+99%25+Uptime;🔐+JWT+%2B+OAuth2+%7C+85%25+Fewer+Security+Incidents" alt="Typing SVG"/>
 
 </div>
 
@@ -43,24 +43,24 @@
 
 ```yaml
 Name      : Muhammad Faiz
-Role      : Backend Engineer · High-Performance APIs
+Role      : Software Engineer · Cloud & Backend Infrastructure
 Company   : NexVolt Solutions
 Location  : Peshawar, Pakistan 🇵🇰
 Available : Remote · Onsite · Relocation
 
-Speciality: Python • FastAPI • AI/ML Integration
-Mission   : Helping businesses scale through
-            intelligent system architecture
+Speciality: Python • FastAPI • AWS • Linux
+Mission   : Helping businesses build reliable,
+            scalable cloud-native systems
 
 Currently :
-  ├── 🎨 Building  → ImagifyAI (AI image platform)
-  ├── 💆 Building  → Looks Lab (AI wellness platform)
+  ├── ☁️  Building  → Cloud infra on AWS (EC2, RDS, S3, VPC)
+  ├── 🎨 Building  → ImagifyAI (cloud-deployed image platform)
   ├── 🐳 Learning  → Kubernetes at scale
   └── 📐 Learning  → System Design for millions
 
 Ask me about :
-  ├── FastAPI · PostgreSQL · Redis · AWS
-  ├── AI integration · inference APIs
+  ├── AWS · Docker · Nginx · Linux administration
+  ├── FastAPI · PostgreSQL · Redis
   └── Making 3.2s queries run in 180ms ⚡
 ```
 
@@ -89,9 +89,9 @@ Ask me about :
       <sub>1,000+ daily requests served</sub>
     </td>
     <td align="center" width="25%">
-      <h2>&lt;200ms</h2>
-      <b>AI Inference Speed</b><br/>
-      <sub>Gemini · TensorFlow in prod</sub>
+      <h2>99%</h2>
+      <b>Production Uptime</b><br/>
+      <sub>AWS EC2 · RDS · S3 · CloudFront</sub>
     </td>
     <td align="center" width="25%">
       <h2>85%</h2>
@@ -110,24 +110,24 @@ Ask me about :
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
@@ -139,6 +139,10 @@ Ask me about :
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
       <br>FastAPI
@@ -156,16 +160,12 @@ Ask me about :
       <br>Redis
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
     </td>
   </tr>
 </table>
@@ -175,20 +175,20 @@ Ask me about :
 
 ## Languages and Tools
 <div align="center">
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="25" /></a>
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>
 </div>
 
 ---
@@ -201,14 +201,14 @@ Ask me about :
 |:------|:------------|:-----:|
 | Python · FastAPI | `████████████████████` 100% | 🔥 Expert |
 | REST API Design | `████████████████████` 100% | 🔥 Expert |
+| AWS Cloud (EC2, RDS, S3, VPC) | `█████████████████░░░` 85% | 🔥 Expert |
 | PostgreSQL · Query Optimization | `████████████████░░░░` 80% | ⚡ Advanced |
-| AWS Cloud | `███████████████░░░░░` 75% | ⚡ Advanced |
-| Docker · DevOps | `██████████████░░░░░░` 70% | ⚡ Advanced |
+| Docker · CI/CD | `████████████████░░░░` 80% | ⚡ Advanced |
+| Linux Server Administration | `███████████████░░░░░` 75% | ⚡ Advanced |
+| Nginx · Networking | `██████████████░░░░░░` 70% | ⚡ Advanced |
 | Redis · Celery | `██████████████░░░░░░` 70% | ⚡ Advanced |
-| Google Gemini · AI Integration | `█████████████░░░░░░░` 65% | 🚀 Proficient |
-| TensorFlow · ML | `████████████░░░░░░░░` 60% | 🚀 Proficient |
+| TensorFlow · AI Integration | `████████████░░░░░░░░` 60% | 🚀 Proficient |
 | Kubernetes | `████████░░░░░░░░░░░░` 40% | 📈 Growing |
-| System Design | `████████░░░░░░░░░░░░` 40% | 📈 Growing |
 
 </div>
 
@@ -277,7 +277,7 @@ Built RESTful APIs, implemented JWT authentication flows, and optimized SQL sche
 
 ### Wanclouds Inc. — Backend Engineering Intern
 
-Built production-grade microservices in a cloud-native environment. Ranked top performer for code quality and problem-solving throughout the internship.
+Built production-grade microservices within an enterprise cloud company, gaining direct exposure to cloud-based product workflows. Ranked top performer for code quality and problem-solving throughout the internship.
 
 **Key contributions:**
 - Built production microservices with FastAPI and Flask
@@ -315,32 +315,33 @@ Built production-grade microservices in a cloud-native environment. Ranked top p
 
 ### NexVolt Solutions — Backend Software Engineer
 
-Owning full backend systems end-to-end. Architected and shipped 20+ production APIs, achieved a 94% database performance boost, and integrated AI/ML models serving real users daily.
+Owning full backend systems end-to-end — from cloud infrastructure to production API architecture. Deployed and manage systems on AWS, achieved a 94% database performance boost, and built automated deployment pipelines serving real users daily.
 
 **Key contributions:**
-- Architected 20+ FastAPI endpoints handling 1,000+ daily requests with 99% uptime
+- Deployed and maintained production applications on AWS (EC2, RDS, S3, VPC, CloudFront, Security Groups)
 - Achieved **94% DB performance boost** — reduced query time from 3.2s to 180ms
-- Deployed cloud-native systems on AWS (EC2, RDS, S3, CloudFront) with multi-region CDN
+- Automated deployments with Docker and CI/CD pipelines, cutting release time from hours to minutes
+- Configured Nginx reverse proxy, SSL/TLS, DNS, and firewall rules for production services
+- Monitored production servers, analyzed logs, and resolved infrastructure issues in Linux environments
 - Hardened auth with JWT + OAuth2, reducing security vulnerabilities by **85%**
-- Integrated Google Gemini + TensorFlow inference pipelines with **sub-200ms** latency
 - Built Celery + Redis async queues for zero-blocking, zero-downtime background processing
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <br/>
 
 | What I Built | The Result |
 |:-------------|:-----------|
-| 20+ FastAPI endpoints · full API architecture | **1,000+ daily requests** without fail |
+| AWS deployment across EC2, RDS, S3, VPC, CloudFront | **99% uptime** in production |
 | PostgreSQL query rewrite + indexing strategy | **94% faster** — 3.2s → **180ms** |
-| Multi-service AWS deployment pipeline | EC2 · RDS · S3 · CloudFront · **99% uptime** |
+| Docker + CI/CD automated deployment pipeline | Deploy time cut from **hours to minutes** |
+| Nginx reverse proxy + SSL/TLS + DNS configuration | Secure, reliable production traffic |
 | JWT + OAuth2 authentication overhaul | **85% fewer** security incidents |
-| Google Gemini + TensorFlow AI pipelines | **Sub-200ms** AI inference in production |
 | Celery + Redis async background queues | Zero blocking · zero downtime |
 
 <br/>
@@ -360,21 +361,21 @@ Owning full backend systems end-to-end. Architected and shipped 20+ production A
 <tr>
 <td width="65%" valign="top">
 
-### 🎨 ImagifyAI — AI Image Generation Platform
+### 🎨 ImagifyAI — Cloud-Deployed Image Generation Platform
 
-Enterprise-grade async AI image generation platform built for scale. Features zero-downtime deploys, multi-region CDN distribution via AWS CloudFront, background task processing with Celery, and branded email notifications via AWS SES.
+Enterprise-grade async image generation platform built for scale on AWS. Features zero-downtime deploys, multi-region CDN distribution via AWS CloudFront, background task processing with Celery, and branded email notifications via AWS SES.
 
 **Key highlights:**
-- Async image processing pipeline with zero-downtime deployment strategy
-- Multi-region CDN distribution — images served globally at edge
+- Deployed on AWS (EC2, RDS, S3, CloudFront) with zero-downtime deployment strategy
+- Multi-region CDN distribution — content served globally at edge
 - JWT + OAuth2 auth with device and location-aware login alerts
 - Scalable multi-tenant PostgreSQL schema with optimized indexing
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
-![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
@@ -402,7 +403,52 @@ Enterprise-grade async AI image generation platform built for scale. Features ze
 
 ---
 
-<!-- ── PROJECT 2: Looks Lab ── -->
+<!-- ── PROJECT 2: CarTrack API ── -->
+<table width="100%">
+<tr>
+<td width="65%" valign="top">
+
+### 🚗 CarTrack API — Vehicle Tracking System
+
+Optimized vehicle tracking backend with clean MVC architecture. Aggressive query tuning reduced response times by 60%. Fully containerized with Docker and Nginx reverse proxy with role-based access control.
+
+**Key highlights:**
+- Query optimization reduced response time from 5s → 2s (60% improvement)
+- JWT authentication with refresh tokens and role-based access control (RBAC)
+- Clean MVC architecture with separation of routes, services, and schemas
+- Fully containerized with Docker Compose and Nginx reverse proxy
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+</td>
+<td width="35%" valign="top" align="center">
+<br/>
+
+![Deploy](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&labelColor=0d1117)
+
+<br/>
+
+| Metric | Value |
+|:-------|:------|
+| Performance | **60% Faster** |
+| Query Time | **5s → 2s** |
+| Auth | **JWT + RBAC** |
+| Deploy | **Containerized** |
+
+<br/>
+
+[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/cartrack-api)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ── PROJECT 3: Looks Lab ── -->
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
@@ -450,7 +496,7 @@ Comprehensive wellness backend serving personalized AI insights across 8 domains
 
 ---
 
-<!-- ── PROJECT 3: LiverCare AI ── -->
+<!-- ── PROJECT 4: LiverCare AI ── -->
 <table width="100%">
 <tr>
 <td width="65%" valign="top">
@@ -488,51 +534,6 @@ CNN-based pipeline for liver steatosis classification from ultrasound images. Pr
 <br/>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-FF6B6B?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/livercare-ai)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ── PROJECT 4: CarTrack API ── -->
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
-### 🚗 CarTrack API — Vehicle Tracking System
-
-Optimized vehicle tracking backend with clean MVC architecture. Aggressive query tuning reduced response times by 60%. Fully containerized with Docker and Nginx reverse proxy with role-based access control.
-
-**Key highlights:**
-- Query optimization reduced response time from 5s → 2s (60% improvement)
-- JWT authentication with refresh tokens and role-based access control (RBAC)
-- Clean MVC architecture with separation of routes, services, and schemas
-- Fully containerized with Docker Compose and Nginx reverse proxy
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-</td>
-<td width="35%" valign="top" align="center">
-<br/>
-
-![Deploy](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&labelColor=0d1117)
-
-<br/>
-
-| Metric | Value |
-|:-------|:------|
-| Performance | **60% Faster** |
-| Query Time | **5s → 2s** |
-| Auth | **JWT + RBAC** |
-| Deploy | **Containerized** |
-
-<br/>
-
-[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/cartrack-api)
 
 </td>
 </tr>
@@ -613,7 +614,7 @@ const faiz = {
 
 ---
 
-## 🌱 2025 Growth Roadmap
+## 🌱 2026 Growth Roadmap
 
 <table width="100%">
 <tr>
@@ -629,21 +630,21 @@ const faiz = {
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
 <tr>
+<td><b>☁️ Virtualization & Cloud</b></td>
+<td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
+<td>Building deeper hands-on skills in virtualization, multi-cloud, and enterprise infrastructure</td>
+<td><code>████████░░░░░░░░░░░░</code> 40%</td>
+</tr>
+<tr>
 <td><b>📐 System Design</b></td>
 <td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
 <td>Design distributed systems that handle millions of users without breaking</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
 <tr>
-<td><b>⚡ GraphQL</b></td>
+<td><b>🔧 Infrastructure as Code</b></td>
 <td><img src="https://img.shields.io/badge/Starting_Soon-58A6FF?style=flat&labelColor=0d1117"/></td>
-<td>Build real-time flexible APIs as a complement to existing REST expertise</td>
-<td><code>████░░░░░░░░░░░░░░░░</code> 20%</td>
-</tr>
-<tr>
-<td><b>🔄 Event-Driven Arch</b></td>
-<td><img src="https://img.shields.io/badge/Starting_Soon-58A6FF?style=flat&labelColor=0d1117"/></td>
-<td>Kafka-based async microservices for decoupled, high-throughput data pipelines</td>
+<td>Terraform-based provisioning for repeatable, version-controlled cloud infrastructure</td>
 <td><code>████░░░░░░░░░░░░░░░░</code> 20%</td>
 </tr>
 <tr>
@@ -660,11 +661,11 @@ const faiz = {
 
 <div align="center">
 
-> *"I don't just write code — I engineer systems built to last, built to scale, and built to impress."*
+> *"I don't just write code — I engineer systems built to last, built to scale, and built to run in production."*
 
 <br/>
 
-*Available for backend roles · AI integration projects · high-performance systems · globally*
+*Available for backend and cloud engineering roles · infrastructure projects · high-performance systems · globally*
 
 <br/>
 
