@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-image.png" width="100%" alt="Muhammad Faiz, Cloud Engineer. AWS, Linux, Docker, CI/CD, networking, and PostgreSQL."/>
+<img src="banner.png" width="100%" alt="Muhammad Faiz, Cloud Engineer. AWS, Linux, Docker, CI/CD, networking, and PostgreSQL."/>
 
 <br/>
 
