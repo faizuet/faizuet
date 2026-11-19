@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/faizuet/faizuet/main/profile-image.png" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=860&height=50&lines=☁️+Cloud-Focused+Software+Engineer+%7C+AWS+%26+Linux;⚡+High-Performance+APIs+%7C+Python+%26+FastAPI;📈+94%25+DB+Boost+—+3.2s+to+180ms+in+Production;🐳+Docker+%2B+CI%2FCD+%7C+5%2B+Systems+%7C+99%25+Uptime;🔐+JWT+%2B+OAuth2+%7C+85%25+Fewer+Security+Incidents" alt="Typing SVG"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/faizuet/faizuet/main/profile-image.png" width="100%" alt="Muhammad Faiz"/>
 
 <br/>
 
-<div align="center">
+<img src="assets/glass/identity.png" width="100%" alt="Muhammad Faiz, Software Engineer at NexVolt Solutions. Open to work — remote, onsite, or relocation. Based in Peshawar, Pakistan. Replies within 24 hours."/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=20&duration=2500&pause=800&color=2C3340&center=true&vCenter=true&width=860&height=54&background=F7F5F8&lines=☁️+Cloud-Focused+Software+Engineer+%7C+AWS+%26+Linux;⚡+High-Performance+APIs+%7C+Python+%26+FastAPI;📈+94%25+DB+Boost+—+3.2s+to+180ms+in+Production;🐳+Docker+%2B+CI%2FCD+%7C+5%2B+Systems+%7C+99%25+Uptime;🔐+JWT+%2B+OAuth2+%7C+85%25+Fewer+Security+Incidents" alt="Cloud-focused software engineer. AWS, FastAPI, and production systems."/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faiz-backend)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizuet7@gmail.com)
@@ -22,20 +18,20 @@
 
 <br/>
 
-![](https://img.shields.io/badge/●_Open_to_Work-Remote_·_Onsite_·_Relocation-2ea44f?style=for-the-badge&labelColor=161b22)
-&nbsp;
-![](https://img.shields.io/badge/📍_Based_In-Peshawar,_Pakistan-58A6FF?style=for-the-badge&labelColor=161b22)
-&nbsp;
-![](https://img.shields.io/badge/⚡_Responds-Within_24h-F7C948?style=for-the-badge&labelColor=161b22)
+[![About](https://img.shields.io/badge/About-F4F6FA?style=for-the-badge&labelColor=F7F5F8)](#about)
+[![Impact](https://img.shields.io/badge/Impact-E07A68?style=for-the-badge&labelColor=F7F5F8)](#impact)
+[![Stack](https://img.shields.io/badge/Stack-8E78C8?style=for-the-badge&labelColor=F7F5F8)](#stack)
+[![Experience](https://img.shields.io/badge/Experience-3F9A74?style=for-the-badge&labelColor=F7F5F8)](#experience)
+[![Projects](https://img.shields.io/badge/Projects-E09A45?style=for-the-badge&labelColor=F7F5F8)](#projects)
+[![Contact](https://img.shields.io/badge/Contact-5E6A7D?style=for-the-badge&labelColor=F7F5F8)](#contact)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
+<a id="about"></a>
 
----
-
-## 🧬 About Me
+## About Me
 
 <table>
 <tr>
@@ -66,173 +62,106 @@ Ask me about :
 
 </td>
 <td valign="middle" width="42%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Coding"/>
 </td>
 </tr>
 </table>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 💥 Impact by the Numbers
+<a id="impact"></a>
+
+## Impact by the Numbers
 
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="25%">
-      <h2>94%</h2>
-      <b>DB Performance Boost</b><br/>
-      <sub>3.2s → 180ms in production</sub>
+      <img src="assets/glass/stat-performance.png" width="210" alt="94% database performance boost. Query time reduced from 3.2s to 180ms."/>
     </td>
     <td align="center" width="25%">
-      <h2>5+</h2>
-      <b>Live Production Systems</b><br/>
-      <sub>1,000+ daily requests served</sub>
+      <img src="assets/glass/stat-systems.png" width="210" alt="5+ live production systems serving 1,000+ daily requests."/>
     </td>
     <td align="center" width="25%">
-      <h2>99%</h2>
-      <b>Production Uptime</b><br/>
-      <sub>AWS EC2 · RDS · S3 · CloudFront</sub>
+      <img src="assets/glass/stat-uptime.png" width="210" alt="99% production uptime on AWS EC2, RDS, and S3."/>
     </td>
     <td align="center" width="25%">
-      <h2>85%</h2>
-      <b>Security Improvement</b><br/>
-      <sub>JWT · OAuth2 · hardened auth</sub>
+      <img src="assets/glass/stat-security.png" width="210" alt="85% fewer security incidents after JWT and OAuth2 hardening."/>
     </td>
   </tr>
 </table>
+
 </div>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 💻 My Favorite Tools and Technologies
+<a id="stack"></a>
 
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+## My Favorite Tools and Technologies
+
+<div align="center">
+
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>REST APIs
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
+    <td align="center" width="20%" bgcolor="#EDE4F8"><br/><img src="https://skillicons.dev/icons?i=python&theme=light" width="48" height="48" alt="Python"/><br/><b>Python</b><br/><br/></td>
+    <td align="center" width="20%" bgcolor="#E7DFF6"><br/><img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="48" height="48" alt="FastAPI"/><br/><b>FastAPI</b><br/><br/></td>
+    <td align="center" width="20%" bgcolor="#EDE4F8"><br/><img src="https://skillicons.dev/icons?i=flask&theme=light" width="48" height="48" alt="Flask"/><br/><b>Flask</b><br/><br/></td>
+    <td align="center" width="20%" bgcolor="#E7DFF6"><br/><img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" alt="PostgreSQL"/><br/><b>PostgreSQL</b><br/><br/></td>
+    <td align="center" width="20%" bgcolor="#EDE4F8"><br/><img src="https://skillicons.dev/icons?i=redis&theme=light" width="48" height="48" alt="Redis"/><br/><b>Redis</b><br/><br/></td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
+    <td align="center" bgcolor="#E3F6EC"><br/><img src="https://skillicons.dev/icons?i=aws&theme=light" width="48" height="48" alt="AWS"/><br/><b>AWS</b><br/><br/></td>
+    <td align="center" bgcolor="#DDF3E8"><br/><img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" alt="Docker"/><br/><b>Docker</b><br/><br/></td>
+    <td align="center" bgcolor="#E3F6EC"><br/><img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" alt="Linux"/><br/><b>Linux</b><br/><br/></td>
+    <td align="center" bgcolor="#DDF3E8"><br/><img src="https://skillicons.dev/icons?i=nginx&theme=light" width="48" height="48" alt="Nginx"/><br/><b>Nginx</b><br/><br/></td>
+    <td align="center" bgcolor="#E3F6EC"><br/><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" width="48" height="48" alt="Kubernetes"/><br/><b>Kubernetes</b><br/><br/></td>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#F8E8E3"><br/><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="48" height="48" alt="MySQL"/><br/><b>MySQL</b><br/><br/></td>
+    <td align="center" bgcolor="#FBF3EA"><br/><img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" alt="Git"/><br/><b>Git</b><br/><br/></td>
+    <td align="center" bgcolor="#F8E8E3"><br/><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub"/><br/><b>GitHub</b><br/><br/></td>
+    <td align="center" bgcolor="#FBF3EA"><br/><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="48" height="48" alt="TensorFlow"/><br/><b>TensorFlow</b><br/><br/></td>
+    <td align="center" bgcolor="#F8E8E3"><br/><img src="https://skillicons.dev/icons?i=gcp&theme=light" width="48" height="48" alt="Google Cloud"/><br/><b>GCP</b><br/><br/></td>
   </tr>
 </table>
+
 </div>
 
 <br/>
 
-## Languages and Tools
-<div align="center">
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" height="25" /></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>
-</div>
+<a id="skills"></a>
 
----
-
-## 📈 Skill Depth
+## Skill Depth
 
 <div align="center">
 
-| Skill | Proficiency | Level |
-|:------|:------------|:-----:|
-| Python · FastAPI | `████████████████████` 100% | 🔥 Expert |
-| REST API Design | `████████████████████` 100% | 🔥 Expert |
-| AWS Cloud (EC2, RDS, S3, VPC) | `█████████████████░░░` 85% | 🔥 Expert |
-| PostgreSQL · Query Optimization | `████████████████░░░░` 80% | ⚡ Advanced |
-| Docker · CI/CD | `████████████████░░░░` 80% | ⚡ Advanced |
-| Linux Server Administration | `███████████████░░░░░` 75% | ⚡ Advanced |
-| Nginx · Networking | `██████████████░░░░░░` 70% | ⚡ Advanced |
-| Redis · Celery | `██████████████░░░░░░` 70% | ⚡ Advanced |
-| TensorFlow · AI Integration | `████████████░░░░░░░░` 60% | 🚀 Proficient |
-| Kubernetes | `████████░░░░░░░░░░░░` 40% | 📈 Growing |
+<img src="assets/glass/skills.png" width="100%" alt="Skill depth: Python and FastAPI 100% Expert, REST API Design 100% Expert, AWS 85% Expert, PostgreSQL 80% Advanced, Docker and CI/CD 80% Advanced, Linux 75% Advanced, Nginx 70% Advanced, Redis and Celery 70% Advanced, TensorFlow 60% Proficient, Kubernetes 40% Growing."/>
 
 </div>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 💼 Professional Journey
+<a id="experience"></a>
+
+## Professional Journey
 
 <br/>
 
 <table width="100%">
 
-<!-- ─────────────── GO JINS ─────────────── -->
 <tr>
 <td width="22%" valign="top" align="right">
 <br/>
-<img src="https://img.shields.io/badge/Jun_2024-Sep_2024-F7C948?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jun_2024_-_Sep_2024-C45C4E?style=flat" alt="June 2024 to September 2024"/>
 <br/><br/>
-<sub>📍 Remote</sub>
+<sub>Remote</sub>
 <br/>
-<img src="https://img.shields.io/badge/✅_Completed-2ea44f?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Completed-2F8F6B?style=flat" alt="Completed"/>
 </td>
 
 <td width="3%" align="center" valign="top">
-<br/>🟡<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
+<br/>🟠<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
 </td>
 
 <td width="75%" valign="top">
@@ -249,7 +178,7 @@ Built RESTful APIs, implemented JWT authentication flows, and optimized SQL sche
 - Integrated third-party APIs with proper validation and error handling
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-C45C4E?style=flat)
 ![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL_Optimization-316192?style=flat&logo=postgresql&logoColor=white)
 
@@ -257,19 +186,18 @@ Built RESTful APIs, implemented JWT authentication flows, and optimized SQL sche
 </td>
 </tr>
 
-<!-- ─────────────── WANCLOUDS ─────────────── -->
 <tr>
 <td width="22%" valign="top" align="right">
 <br/>
-<img src="https://img.shields.io/badge/Jun_2025-Sep_2025-58A6FF?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Jun_2025_-_Sep_2025-6E5AA8?style=flat" alt="June 2025 to September 2025"/>
 <br/><br/>
-<sub>📍 Islamabad, PK</sub>
+<sub>Islamabad, PK</sub>
 <br/>
-<img src="https://img.shields.io/badge/🏆_Top_Performer-F7C948?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Top_Performer-B8862E?style=flat" alt="Top performer"/>
 </td>
 
 <td width="3%" align="center" valign="top">
-<br/>🔵<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
+<br/>🟣<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>
 </td>
 
 <td width="75%" valign="top">
@@ -295,15 +223,14 @@ Built production-grade microservices within an enterprise cloud company, gaining
 </td>
 </tr>
 
-<!-- ─────────────── NEXVOLT ─────────────── -->
 <tr>
 <td width="22%" valign="top" align="right">
 <br/>
-<img src="https://img.shields.io/badge/Nov_2025-Present-2ea44f?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Nov_2025_-_Present-2F8F6B?style=flat" alt="November 2025 to present"/>
 <br/><br/>
-<sub>📍 Peshawar, PK</sub>
+<sub>Peshawar, PK</sub>
 <br/>
-<img src="https://img.shields.io/badge/🟢_Current_Role-2ea44f?style=flat&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Current_Role-2F8F6B?style=flat" alt="Current role"/>
 </td>
 
 <td width="3%" align="center" valign="top">
@@ -350,18 +277,20 @@ Owning full backend systems end-to-end — from cloud infrastructure to producti
 
 </table>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+<a id="projects"></a>
+
+## Featured Projects
 
 <br/>
 
-<!-- ── PROJECT 1: ImagifyAI ── -->
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="8" bgcolor="#EDE4F8"></td>
+<td width="64%" valign="top">
 
-### 🎨 ImagifyAI — Cloud-Deployed Image Generation Platform
+### ImagifyAI — Cloud-Deployed Image Generation Platform
 
 Enterprise-grade async image generation platform built for scale on AWS. Features zero-downtime deploys, multi-region CDN distribution via AWS CloudFront, background task processing with Celery, and branded email notifications via AWS SES.
 
@@ -379,10 +308,10 @@ Enterprise-grade async image generation platform built for scale on AWS. Feature
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 <br/>
 
-![Live](https://img.shields.io/badge/●_LIVE-Production-2ea44f?style=flat&labelColor=0d1117)
+![Live](https://img.shields.io/badge/Live-Production-2F8F6B?style=flat)
 
 <br/>
 
@@ -395,20 +324,20 @@ Enterprise-grade async image generation platform built for scale on AWS. Feature
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-58A6FF?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/genwalls)
+[![View Repository](https://img.shields.io/badge/View_Repository-C45C4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizuet/genwalls)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ── PROJECT 2: CarTrack API ── -->
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="8" bgcolor="#E3F6EC"></td>
+<td width="64%" valign="top">
 
-### 🚗 CarTrack API — Vehicle Tracking System
+### CarTrack API — Vehicle Tracking System
 
 Optimized vehicle tracking backend with clean MVC architecture. Aggressive query tuning reduced response times by 60%. Fully containerized with Docker and Nginx reverse proxy with role-based access control.
 
@@ -424,10 +353,10 @@ Optimized vehicle tracking backend with clean MVC architecture. Aggressive query
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 <br/>
 
-![Deploy](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat&labelColor=0d1117)
+![Deploy](https://img.shields.io/badge/Docker-Deployed-6E84B8?style=flat)
 
 <br/>
 
@@ -440,20 +369,20 @@ Optimized vehicle tracking backend with clean MVC architecture. Aggressive query
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-2ea44f?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/cartrack-api)
+[![View Repository](https://img.shields.io/badge/View_Repository-C45C4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizuet/cartrack-api)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ── PROJECT 3: Looks Lab ── -->
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="8" bgcolor="#F8E8E3"></td>
+<td width="64%" valign="top">
 
-### 💆 Looks Lab — AI Personal Wellness Platform
+### Looks Lab — AI Personal Wellness Platform
 
 Comprehensive wellness backend serving personalized AI insights across 8 domains: skincare, haircare, fitness, diet, and more. Features anonymous onboarding, multi-step session tracking, and full Stripe subscription management.
 
@@ -472,10 +401,10 @@ Comprehensive wellness backend serving personalized AI insights across 8 domains
 ![asyncpg](https://img.shields.io/badge/asyncpg-316192?style=flat)
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 <br/>
 
-![Live](https://img.shields.io/badge/●_LIVE-Production-2ea44f?style=flat&labelColor=0d1117)
+![Live](https://img.shields.io/badge/Live-Production-2F8F6B?style=flat)
 
 <br/>
 
@@ -488,20 +417,20 @@ Comprehensive wellness backend serving personalized AI insights across 8 domains
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/looks-lab-backend)
+[![View Repository](https://img.shields.io/badge/View_Repository-C45C4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizuet/looks-lab-backend)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ── PROJECT 4: LiverCare AI ── -->
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="8" bgcolor="#FBF3EA"></td>
+<td width="64%" valign="top">
 
-### 🏥 LiverCare AI — Medical Image Classification
+### LiverCare AI — Medical Image Classification
 
 CNN-based pipeline for liver steatosis classification from ultrasound images. Preprocessed and augmented a dataset of 2,000+ medical images, then deployed the trained model as a real-time FastAPI inference endpoint.
 
@@ -517,10 +446,10 @@ CNN-based pipeline for liver steatosis classification from ultrasound images. Pr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 <br/>
 
-![Model](https://img.shields.io/badge/Model-CNN-FF6B6B?style=flat&labelColor=0d1117)
+![Model](https://img.shields.io/badge/Model-CNN-C45C4E?style=flat)
 
 <br/>
 
@@ -533,61 +462,61 @@ CNN-based pipeline for liver steatosis classification from ultrasound images. Pr
 
 <br/>
 
-[![View Repository](https://img.shields.io/badge/View_Repository-FF6B6B?style=flat&logo=github&logoColor=white)](https://github.com/faizuet/livercare-ai)
+[![View Repository](https://img.shields.io/badge/View_Repository-C45C4E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizuet/livercare-ai)
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 📊 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 <div align="center">
 
 <a href="https://github.com/faizuet?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizuet&theme=react&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizuet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=16&bg_color=F7F5F8&title_color=2C3340&text_color=5C6778&icon_color=C45C4E" height="180" alt="GitHub stats for faizuet"/>
 </a>
 <a href="https://github.com/faizuet?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizuet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=58A6FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizuet&langs_count=8&layout=compact&hide_border=true&border_radius=16&bg_color=F7F5F8&title_color=2C3340&text_color=5C6778&hide=Jupyter%20Notebook,Roff" height="180" alt="Top languages for faizuet"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/faizuet?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizuet&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizuet&hide_border=true&border_radius=16&background=F7F5F8&stroke=F7F5F8&ring=C45C4E&fire=E09A45&currStreakNum=2C3340&sideNums=2C3340&currStreakLabel=5C6778&sideLabels=5C6778&dates=8A93A3&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak for faizuet"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/faizuet">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizuet&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&area_color=1a1a2e&radius=5&height=220" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizuet&bg_color=F7F5F8&color=8A93A3&line=C45C4E&point=A894D4&area=true&hide_border=true&area_color=F8E7E2&radius=16&height=220" width="100%" alt="GitHub contribution graph for faizuet"/>
 </a>
 
 </div>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 🗣️ What People Say
+## What People Say
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-NexVolt_Solutions-58A6FF?style=flat"/>
+    <td width="33%" valign="top" bgcolor="#F7F5F8">
+      <img src="https://img.shields.io/badge/NexVolt_Solutions-6E5AA8?style=flat" alt="NexVolt Solutions"/>
       <br/><br/>
       <i>"Faiz delivered backend architecture faster than expected with zero compromise on quality. His query optimization work alone saved us significant infrastructure costs."</i>
       <br/><br/>
       <b>— Senior Engineer, NexVolt Solutions</b>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-Wanclouds_Inc.-2ea44f?style=flat"/>
+    <td width="33%" valign="top" bgcolor="#F3F8F5">
+      <img src="https://img.shields.io/badge/Wanclouds_Inc.-2F8F6B?style=flat" alt="Wanclouds Inc."/>
       <br/><br/>
       <i>"One of the sharpest interns we've had. He picked up our microservices stack instantly and shipped features that went straight to production."</i>
       <br/><br/>
       <b>— Engineering Lead, Wanclouds Inc.</b>
     </td>
-    <td width="33%" valign="top">
-      <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-Go_Jins-F7C948?style=flat"/>
+    <td width="33%" valign="top" bgcolor="#FBF6F4">
+      <img src="https://img.shields.io/badge/Go_Jins-C45C4E?style=flat" alt="Go Jins"/>
       <br/><br/>
       <i>"Faiz has a rare ability to think about the immediate implementation AND the long-term architecture simultaneously. Highly recommended."</i>
       <br/><br/>
@@ -596,9 +525,9 @@ CNN-based pipeline for liver steatosis classification from ultrasound images. Pr
   </tr>
 </table>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## ⚡ Fun Facts
+## Fun Facts
 
 ```javascript
 const faiz = {
@@ -612,52 +541,54 @@ const faiz = {
 };
 ```
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 🌱 2026 Growth Roadmap
+## 2026 Growth Roadmap
 
 <table width="100%">
 <tr>
-<th align="left" width="22%">Focus Area</th>
-<th align="left" width="18%">Status</th>
-<th align="left" width="33%">Goal</th>
-<th align="left" width="27%">Progress</th>
+<th align="left" width="22%" bgcolor="#F7F5F8">Focus Area</th>
+<th align="left" width="18%" bgcolor="#F7F5F8">Status</th>
+<th align="left" width="33%" bgcolor="#F7F5F8">Goal</th>
+<th align="left" width="27%" bgcolor="#F7F5F8">Progress</th>
 </tr>
 <tr>
-<td><b>🐳 Kubernetes</b></td>
-<td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
+<td><b>Kubernetes</b></td>
+<td><img src="https://img.shields.io/badge/In_Progress-B8862E?style=flat" alt="In progress"/></td>
 <td>Container orchestration at scale — deploy and manage multi-service apps in prod</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
 <tr>
-<td><b>☁️ Virtualization & Cloud</b></td>
-<td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
+<td><b>Virtualization & Cloud</b></td>
+<td><img src="https://img.shields.io/badge/In_Progress-B8862E?style=flat" alt="In progress"/></td>
 <td>Building deeper hands-on skills in virtualization, multi-cloud, and enterprise infrastructure</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
 <tr>
-<td><b>📐 System Design</b></td>
-<td><img src="https://img.shields.io/badge/In_Progress-F7C948?style=flat&labelColor=0d1117"/></td>
+<td><b>System Design</b></td>
+<td><img src="https://img.shields.io/badge/In_Progress-B8862E?style=flat" alt="In progress"/></td>
 <td>Design distributed systems that handle millions of users without breaking</td>
 <td><code>████████░░░░░░░░░░░░</code> 40%</td>
 </tr>
 <tr>
-<td><b>🔧 Infrastructure as Code</b></td>
-<td><img src="https://img.shields.io/badge/Starting_Soon-58A6FF?style=flat&labelColor=0d1117"/></td>
+<td><b>Infrastructure as Code</b></td>
+<td><img src="https://img.shields.io/badge/Starting_Soon-6E5AA8?style=flat" alt="Starting soon"/></td>
 <td>Terraform-based provisioning for repeatable, version-controlled cloud infrastructure</td>
 <td><code>████░░░░░░░░░░░░░░░░</code> 20%</td>
 </tr>
 <tr>
-<td><b>🌐 Global SaaS</b></td>
-<td><img src="https://img.shields.io/badge/Planned-2ea44f?style=flat&labelColor=0d1117"/></td>
+<td><b>Global SaaS</b></td>
+<td><img src="https://img.shields.io/badge/Planned-2F8F6B?style=flat" alt="Planned"/></td>
 <td>Ship a multi-region, multi-tenant SaaS product to a global audience</td>
 <td><code>██░░░░░░░░░░░░░░░░░░</code> 10%</td>
 </tr>
 </table>
 
----
+<img src="assets/glass/divider.png" width="100%" alt=""/>
 
-## 🤝 Let's Connect
+<a id="contact"></a>
+
+## Let's Connect
 
 <div align="center">
 
@@ -671,21 +602,21 @@ const faiz = {
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="200" bgcolor="#F7F5F8">
   <a href="https://linkedin.com/in/muhammad-faiz-backend">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faiz-0A66C2?style=flat&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Faiz-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <br/><sub>Professional Network</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="200" bgcolor="#FBF6F4">
   <a href="mailto:faizuet7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-faizuet7@gmail.com-EA4335?style=flat&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Gmail-faizuet7@gmail.com-C45C4E?style=flat&logo=gmail&logoColor=white" alt="Email faizuet7@gmail.com"/>
   </a>
   <br/><sub>Direct Email</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="200" bgcolor="#F3F8F5">
   <a href="https://github.com/faizuet">
-    <img src="https://img.shields.io/badge/GitHub-faizuet-181717?style=flat&logo=github&logoColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-faizuet-2C3340?style=flat&logo=github&logoColor=white" alt="GitHub faizuet"/>
   </a>
   <br/><sub>Open Source Work</sub>
 </td>
@@ -694,12 +625,12 @@ const faiz = {
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/●_Open_to_Work-Remote_·_Onsite_·_Relocation-2ea44f?style=flat&labelColor=0d1117)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Remote_·_Onsite_·_Relocation-2F8F6B?style=flat&labelColor=3D4654)
 &nbsp;
-![Response Time](https://img.shields.io/badge/⚡_Response_Time-Within_24_Hours-58A6FF?style=flat&labelColor=0d1117)
+![Response Time](https://img.shields.io/badge/Response_Time-Within_24_Hours-6E5AA8?style=flat&labelColor=3D4654)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20my%20repos%20if%20you%20like%20my%20work&fontSize=15&fontColor=a8b2d8&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8e7e2,50:ebe4f6,100:e3f4ec&height=130&section=footer&text=Thanks%20for%20visiting&fontSize=16&fontColor=3d4654&animation=fadeIn&fontAlignY=65" width="100%" alt="Thanks for visiting"/>
 
 </div>
